@@ -5,6 +5,7 @@
 - Added "Archive Sticker" into the "..." menu of the Sticker Set Box.
 - Fixed memory not being freed on Linux.
 - Several crash fixes.
+- Hmmm
 
 2.7.5 beta (04.05.21)
 
