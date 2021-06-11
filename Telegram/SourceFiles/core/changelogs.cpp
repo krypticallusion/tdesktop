@@ -160,7 +160,7 @@ std::map<int, const char*> BetaLogs() {
 		"- Fix crash in file dialog on Linux.\n"
 	},
 	{
-		2007006,
+		2007007,
 		"- Optimized video playback in media viewer and Picture-in-Picture on Windows and Linux.\n"
 
 		"- Added integration with System Media Transport Controls on Windows 10.\n"
